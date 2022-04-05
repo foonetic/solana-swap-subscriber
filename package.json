@@ -1,0 +1,25 @@
+{
+  "name": "solana-swap-subscriber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foonetic/solana-swap-subscriber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foonetic/solana-swap-subscriber/issues"
+  },
+  "homepage": "https://github.com/foonetic/solana-swap-subscriber#readme",
+  "dependencies": {
+    "@orca-so/sdk": "^1.2.23",
+    "@solana/web3.js": "^1.37.1",
+    "decimal.js": "^10.3.1"
+  },
+  "type": "module"
+}
